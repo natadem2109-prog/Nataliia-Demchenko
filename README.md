@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nataliia Demchenko
 
-# Junior Frontend Developer | React | Next.js | TypeScript
+# Junior Fullstack Developer | React | Next.js | TypeScript
 
 Frontend Developer with practical experience in JavaScript, TypeScript, React, and Next.js. Experienced in building responsive and adaptive web applications, integrating REST APIs, managing application state, and creating reusable UI components. Participated in individual and team projects using Git and GitHub workflows. Familiar with modern development practices, component-based architecture, and performance optimization. Passionate about continuous learning and creating user-friendly web solutions.
 
