@@ -6,7 +6,7 @@ Frontend Developer with practical experience in JavaScript, TypeScript, React, a
 
 ## 🧰 Tech Stack
 
-JavaScript | TypeScript | React | Next.js | HTML5 | CSS3 | React Query | React Router | REST API | Axios | Git | GitHub | Vite | Figma | Postman
+JavaScript | TypeScript | React | Next.js | Node.js | REST API
 
 ## 💻 Featured Projects
 EcoTote (Team Project)
