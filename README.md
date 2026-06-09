@@ -32,7 +32,7 @@ A note management web application built with Next.js, TypeScript, React Query, a
 
 ## 📫 How to reach me
 
-LinkedIn: [https://www.linkedin.com/in/nataliia-demchenko-907601389/?locale=en-US]
+LinkedIn: [www.linkedin.com/in/nataliia-demchenko]
 
 GitHub: [https://github.com/natadem2109-prog]
 
