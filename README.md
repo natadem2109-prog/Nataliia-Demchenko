@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/235174062?s=400&u=73fdbeba6bd8f02e98826aaff4746e4ce9ba2350&v=4" width="200"/>
-
 ## 👋 Hi, I'm Nataliia Demchenko
 
 # Junior Frontend Developer | React | Next.js | TypeScript
